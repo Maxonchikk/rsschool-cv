@@ -33,3 +33,7 @@ const rentalCarCost = (d) => {
 * Skillbox: https://skillbox.by/course/frontend-pro-expert/
 * Code-ru HTML: https://ru.code-basics.com/languages/html
 * Code-ru CSS: https://ru.code-basics.com/languages/css
+## Languages
+* Russian - native;
+* English - A1;
+* Italian - base.
