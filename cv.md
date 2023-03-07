@@ -13,3 +13,23 @@ My best-friend told me about RS School and I decided to start ones for develop m
 * Git, Github;
 * VSCode;
 * Figma and PhotoShop.
+* ## Code examples
+```
+const rentalCarCost = (d) => {
+  let cost;
+  if (d >= 7) {
+    return cost = (40 * d) - 50;
+  } else if (d >= 3 && d < 7) {
+    return cost = (40 * d) - 20;
+  } else {
+    return cost = 40 * d;
+  }
+}
+```
+## Education
+* Gomel State Techical University in 2014/2019
+* Udemy JS: https://www.udemy.com/course/javascript_full/
+* Udemy Git: https://www.udemy.com/course/git-alishev/learn/
+* Skillbox: https://skillbox.by/course/frontend-pro-expert/
+* Code-ru HTML: https://ru.code-basics.com/languages/html
+* Code-ru CSS: https://ru.code-basics.com/languages/css
